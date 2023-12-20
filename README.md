@@ -1,10 +1,9 @@
-# Hey there! / مرحبا 👋
+# 👋 Hey there, I'm **Ahmed** 
 
 ## About me 😄
-- 👋 I’m Ahmed (@AK1o9), or AK for short.
-- 💻 I’m a junior developer who's mostly interested in web and game development/programming.
+- 💻 I’m a fresh graduate developer who's mostly interested in web and game development/programming.
 - ⚙️ I'm familiar with multiple technologies but mainly use Python, C#, JavaScript, React, Flutter and Firebase. 
-- 🌱 I’m currently practicing React and .NET.
+- 🌱 I’m currently practicing .NET and React Native.
 
 ## Where to find me 👀
 - [**Portfolio**](https://ahmedkhalifadev.com/)
