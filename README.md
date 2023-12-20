@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm **Ahmed** 
 
 ## About me 😄
-- 💻 I’m a fresh graduate developer who's mostly interested in web and game development/programming.
+- 💻 I’m a fresh graduate developer who's mostly interested in web and game development.
 - ⚙️ I'm familiar with multiple technologies but mainly use Python, C#, JavaScript, React, Flutter and Firebase. 
 - 🌱 I’m currently practicing .NET and React Native.
 
