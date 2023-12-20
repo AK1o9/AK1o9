@@ -1,4 +1,4 @@
-# Hi there / مرحبا 👋
+# Hey there! / مرحبا 👋
 
 - 👋 I’m Ahmed (@AK1o9), or AK for short.
 - 💻 I’m a junior developer who's mostly interested in web and game development/programming.
