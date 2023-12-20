@@ -1,14 +1,13 @@
 # 👋 Hey there, I'm **Ahmed** 
 
 ## About me 😄
-- 💻 I’m a fresh graduate developer who's mostly interested in web and game development.
-- ⚙️ I'm familiar with multiple technologies but mainly use Python, C#, JavaScript, React, Flutter and Firebase. 
+- 💻 I’m a fresh graduate developer who's passionate about web & game development.
+- ⚙️ I'm familiar with multiple technologies but mainly use Python, C#, JavaScript, React, Flutter and Firebase.
+- 🧠 I'm enthusiastic about concepts like AI, data analysis, blockchains and cloud development.
 - 🌱 I’m currently practicing .NET and React Native.
 
 ## Where to find me 👀
-- [**Portfolio**](https://ahmedkhalifadev.com/)
-- [**LinkedIn**](https://www.linkedin.com/in/ak1o9/)
-- [**Leetcode**](https://leetcode.com/AK1o9/) 
+[**Portfolio**](https://ahmedkhalifadev.com/)   |   [**LinkedIn**](https://www.linkedin.com/in/ak1o9/)   |   [**Leetcode**](https://leetcode.com/AK1o9/) 
 
 <!--
 **AK1o9/AK1o9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
