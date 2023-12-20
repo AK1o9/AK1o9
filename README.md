@@ -6,9 +6,9 @@
 - 🌱 I’m currently practicing React and .NET.
 
 ## Where to find me 👀
-- X: @its_dev_ak
-- Leetcode: /AK1o9
-- LinkedIn: /in/ak1o9/
+- [**Portfolio** (https://ahmedkhalifadev.com/)]([url](https://ahmedkhalifadev.com/))
+- [**LinkedIn**]([url](https://www.linkedin.com/in/ak1o9/))
+- [**Leetcode**]([url](https://leetcode.com/AK1o9/)) 
 
 <!--
 **AK1o9/AK1o9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
