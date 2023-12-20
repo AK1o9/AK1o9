@@ -6,7 +6,9 @@
 - 🌱 I’m currently practicing React and .NET.
 
 ## Where to find me 👀
-- 🐦 Twitter: @its_dev_ak
+- X: @its_dev_ak
+- Leetcode: /AK1o9
+- LinkedIn: /in/ak1o9/
 
 <!--
 **AK1o9/AK1o9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
