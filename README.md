@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm **Ahmed**
+# 👋 Hey, I'm **Ahmed**
 
 ## About 😄
 - 🧑‍💻 I’m a fresh graduate developer who's passionate about web & game development.
