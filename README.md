@@ -7,7 +7,7 @@
 - 🌱 I’m currently practicing .NET and React Native.
 
 ## Technologies ⚙️
-Python | C# | JavaScript | React | Dart + Flutter | Java | C++ | Kotlin | SQL
+Python | C# | C++ | JavaScript | React | Dart + Flutter | Java | Kotlin | SQL
 
 ## Tools 🧰
 MS Visual Studio Code | Draw.io | Figma | Unity | Firebase | AWS | Git | GitHub
