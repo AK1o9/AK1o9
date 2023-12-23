@@ -7,10 +7,10 @@
 - 🌱 I’m currently practicing .NET and React Native.
 
 ## Technologies ⚙️
-Python | C# | C++ | JavaScript | React | Dart + Flutter | Java | Kotlin | SQL
+`Python` `C#` `C++` `JavaScript` `React` `Dart` `Flutter` `Java` `Kotlin` `SQL`
 
 ## Tools 🧰
-MS Visual Studio Code | Draw.io | Figma | Unity | Firebase | AWS | Git | GitHub
+`MS Visual Studio Code` `Draw.io` `Figma` `Unity` `Firebase` `AWS` `Git` `GitHub`
 
 ## Contact 🤝
 [**Portfolio**](https://ahmedkhalifadev.com/)   |   [**LinkedIn**](https://www.linkedin.com/in/ak1o9/)   |   [**Leetcode**](https://leetcode.com/AK1o9/) 
