@@ -4,7 +4,7 @@
 - 🧑‍💻 I’m a fresh graduate developer who's passionate about web & game development.
 - ⚙️ I'm familiar with multiple technologies but mainly use **Python, C#, JavaScript, React, Flutter** and **Firebase**.
 - 🧠 I'm enthusiastic about topics like **AI, data analysis, blockchains** and **cloud development**.
-- 🌱 I’m currently practicing .NET and React Native.
+- 🌱 I’m currently practicing .NET, Rust and React Native.
 
 ## Technologies ⚙️
 `Python` `C#` `C++` `JavaScript` `React` `Dart` `Flutter` `Java` `Kotlin` `SQL`
