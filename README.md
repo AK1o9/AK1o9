@@ -3,10 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ak1o9&label=Profile%20views&color=0e75b6&style=flat" alt="ak1o9" /> </p>
 
 ## About 😄
-- 🧑‍💻 I’m a fresh graduate developer who's passionate about web & game development.
+- 🧑‍💻 I’m a junior developer with a passion for web & game development.
 - ⚙️ I'm familiar with multiple technologies but mainly use **Python, C#, JavaScript, React, Flutter** and **Firebase**.
 - 🧠 I'm enthusiastic about topics like **AI, data analysis, blockchains** and **cloud development**.
-- 🌱 I’m currently practicing **.NET, Rust** and **React Native**.
+- 🌱 I’m currently practicing **Typescipt, React** and **Redux**.
 
 ## Technologies ⚙️
 <!--`Python` `C#` `C++` `JavaScript` `React` `Dart` `Flutter` `Java` `Kotlin` `SQL`-->
